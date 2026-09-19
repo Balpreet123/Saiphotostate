@@ -1,0 +1,6 @@
+{
+  "name": "Sai Photo State | CSC & Online Services Amloh",
+  "description": "Sai Photo State in Amloh, Punjab provides CSC, Aadhaar, Voter ID, PAN, government, online, documentation, printing, photo and digital services under one roof.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
